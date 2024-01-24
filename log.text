@@ -1,0 +1,17 @@
+/// contract verify in gorile network // 24/01/2024
+
+
+Single Swap contract deployed:  0xeBEE729160AFCe88a41C9e07C4e7A207a5b7bf98
+PS E:\React.nft website\uniswap Tutoriles\uniswap-tutorials> npx hardhat verify    0xeBEE729160AFCe88a41C9e07C4e7A207a5b7bf98  --network goerli
+Nothing to compile
+Error in plugin @nomiclabs/hardhat-etherscan: Too many invalid api key attempts, please try again later
+
+For more info run Hardhat with --show-stack-traces
+PS E:\React.nft website\uniswap Tutoriles\uniswap-tutorials> npx hardhat verify    0xeBEE729160AFCe88a41C9e07C4e7A207a5b7bf98  --network goerli
+Nothing to compile
+Successfully submitted source code for contract
+contracts/SingleSwap.sol:SingleSwap at 0xeBEE729160AFCe88a41C9e07C4e7A207a5b7bf98
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract SingleSwap on Etherscan.
+https://goerli.etherscan.io/address/0xeBEE729160AFCe88a41C9e07C4e7A207a5b7bf98#code
